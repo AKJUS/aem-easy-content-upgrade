@@ -2,8 +2,10 @@
 
 # AEM Easy Content Upgrade (AECU)
 
-AECU simplifies content migrations by executing migration scripts during package installation. It is built on top of [Groovy Console](https://github.com/orbinson/aem-groovy-console).
+> [!WARNING]
+> This project is no longer actively maintained. AI-assisted development and simpler author-side execution workflows have reduced the need for AECU. The [AEM Groovy Console](https://github.com/orbinson/aem-groovy-console) can be installed independently, and alternatives are available in the ecosystem
 
+AECU simplifies content migrations by executing migration scripts during package installation. It is built on top of [Groovy Console](https://github.com/orbinson/aem-groovy-console).
 
 Features:
 
